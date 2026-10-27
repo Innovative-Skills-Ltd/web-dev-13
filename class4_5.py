@@ -71,7 +71,7 @@ student_details= ["al amin", "dhaka", 22, False, 22]
 my_details= []
 
 
-# next class a amra list dive drive korbwo, like list operation
+# next class a amra list dive drive korbow, like list operation
 
 
 
